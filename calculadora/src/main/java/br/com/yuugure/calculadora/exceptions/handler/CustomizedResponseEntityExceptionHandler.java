@@ -1,4 +1,4 @@
-package br.com.yuugure.exceptions.handler;
+package br.com.yuugure.calculadora.exceptions.handler;
 
 import java.util.Date;
 
@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.context.request.WebRequest;
 import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;
 
-import br.com.yuugure.exceptions.ExceptionResponse;
-import br.com.yuugure.exceptions.UnsupportedMathOperationException;
+import br.com.yuugure.calculadora.exceptions.ExceptionResponse;
+import br.com.yuugure.calculadora.exceptions.UnsupportedMathOperationException;
 
 @ControllerAdvice
 @RestController

@@ -1,4 +1,4 @@
-package br.com.yuugure.exceptions;
+package br.com.yuugure.calculadora.exceptions;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

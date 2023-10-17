@@ -1,4 +1,4 @@
-package br.com.yuugure.exceptions;
+package br.com.yuugure.calculadora.exceptions;
 
 import java.io.Serializable;
 import java.util.Date;
